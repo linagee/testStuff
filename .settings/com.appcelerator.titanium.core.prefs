@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/2F554550-F546-4ABD-A0CF-66C27F062142/appid=*
+provisioning_profiles/development/2F554550-F546-4ABD-A0CF-66C27F062142/name=James Dev Profile
+provisioning_profiles/development/2F554550-F546-4ABD-A0CF-66C27F062142/uuid=2F554550-F546-4ABD-A0CF-66C27F062142
+provisioning_profiles/distribution/2F554550-F546-4ABD-A0CF-66C27F062142/appid=*
+provisioning_profiles/distribution/2F554550-F546-4ABD-A0CF-66C27F062142/name=James Dev Profile
+provisioning_profiles/distribution/2F554550-F546-4ABD-A0CF-66C27F062142/uuid=2F554550-F546-4ABD-A0CF-66C27F062142
+provisioning_profiles/distribution/B4ECF07A-DC8B-492B-ACAF-5816FA5C4E8E/appid=*
+provisioning_profiles/distribution/B4ECF07A-DC8B-492B-ACAF-5816FA5C4E8E/name=James Prod Profile
+provisioning_profiles/distribution/B4ECF07A-DC8B-492B-ACAF-5816FA5C4E8E/uuid=B4ECF07A-DC8B-492B-ACAF-5816FA5C4E8E
